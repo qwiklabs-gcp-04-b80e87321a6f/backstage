@@ -4,7 +4,7 @@ metadata:
   name: backstage
   description: Internal Developer Portal
   annotations:
-    github.com/project-slug: ${{__GITHUB_ORG__}}/backstage
+    github.com/project-slug: qwiklabs-gcp-04-b80e87321a6f/backstage
     backstage.io/techdocs-ref: dir:.
 spec:
   type: website
